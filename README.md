@@ -51,6 +51,8 @@ Database (future plan): MongoDB / Firebase
 ## 🚀 Preview
 
 🧩 Here’s a glimpse of Craftify’s UI prototype:
+![Uploading Screenshot 2025-10-05 at 9.17.12 PM.png…]()
+
 
 ## 🔗 Live Link
 
