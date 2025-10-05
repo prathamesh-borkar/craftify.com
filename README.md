@@ -51,7 +51,9 @@ Database (future plan): MongoDB / Firebase
 ## 🚀 Preview
 
 🧩 Here’s a glimpse of Craftify’s UI prototype:
-https://github.com/pratham-huh/craftify.com/blob/main/craftify.png?raw=true
+<img width="2649" height="1667" alt="image" src="https://github.com/user-attachments/assets/c4906aef-dfb8-4f05-b41b-123801033374" />
+
+
 
 
 
