@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Craftify — Handcrafted Art Marketplace</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a class="brand" href="#/">
+                <span class="brand-mark">C</span>
+                <span class="brand-name">Craftify</span>
+            </a>
+            <nav class="nav" aria-label="Primary">
+                <button class="nav-link" data-link="#/">Home</button>
+                <button class="nav-link" data-link="#/market">Products</button>
+                <button class="nav-link" data-link="#/artist">Artist</button>
+                <button class="nav-link" data-link="#/profile">Profile</button>
+                <button class="nav-link" data-link="#/cart">Cart <span id="cart-count" class="badge">0</span></button>
+                <button class="nav-link" data-link="#/booking">Booking</button>
+                <div class="auth-cta" id="auth-cta"></div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container" id="app" tabindex="-1">
+        <!-- Views injected by JS -->
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-inner">
+            <p>© <span id="year"></span> Craftify. Celebrate handmade.</p>
+        </div>
+    </footer>
+
+    <div id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+
+    <script src="./app.js"></script>
+</body>
+</html>
+
+
+
