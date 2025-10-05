@@ -239,15 +239,15 @@
             <div class="grid cols-3" style="margin-top:10px">
               <div>
                 <strong>Prathamesh Borkar</strong>
-                <div class="muted">Contact: 7977396830</div>
+                <div class="muted">Contact: prathameshborkar20@gmail.com</div>
               </div>
               <div>
                 <strong>Sanika Chavan</strong>
-                <div class="muted">Contact: 9359933173</div>
+                <div class="muted">Contact: sanikachavan@gmail.com</div>
               </div>
               <div>
                 <strong>Jidnyasa Gole</strong>
-                <div class="muted">Contact: 9664684685</div>
+                <div class="muted">Contact: jidnyasagole@gmail.com</div>
               </div>
             </div>
           </div></div>
