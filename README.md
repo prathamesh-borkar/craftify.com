@@ -59,7 +59,7 @@ Database (future plan): MongoDB / Firebase
 
 ## 🔗 Live Link
 
-👉 (https://pratham-huh.github.io/craftify.com/)
+👉 ((https://craftify-pratham-huh.netlify.app/))
 
 ## 🧠 Team Vision
 
